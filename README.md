@@ -13,16 +13,6 @@ Nothing here is meant to be revolutionary. It’s just me learning, testing, and
     <img alt="follow on tiktok"
          src="https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok"/>
   </a>
-
-  <a href="https://github.com/uxoDeleted?tab=followers">
-    <img alt="github followers"
-         src="https://img.shields.io/github/followers/uxoDeleted?label=Follow&style=flat"/>
-  </a>
-
-  <a href="https://github.com/uxoDeleted?tab=repositories">
-    <img alt="total stars"
-         src="https://img.shields.io/github/stars/uxoDeleted?label=Stars&style=flat"/>
-  </a>
 </p>
 
 
