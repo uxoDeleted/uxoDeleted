@@ -13,6 +13,14 @@ Nothing here is meant to be revolutionary. It’s just me learning, testing, and
     <img alt="follow on tiktok"
          src="https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok"/>
   </a>
+
+
+## 🧰 Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua"/>
 </p>
 
 
