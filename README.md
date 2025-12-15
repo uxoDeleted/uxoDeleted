@@ -10,15 +10,18 @@ Nothing here is meant to be revolutionary. It’s just me learning, testing, and
 
 <p align="left">
   <a href="https://www.tiktok.com/@uksov">
-    <img alt="tiktok followers"
-         title="Follow me on TikTok"
-         src="https://img.shields.io/badge/TikTok-Followers-black?logo=tiktok"/>
+    <img alt="follow on tiktok"
+         src="https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok"/>
   </a>
 
-  <a href="https://www.tiktok.com/@uksov">
-    <img alt="tiktok views"
-         title="TikTok profile views"
-         src="https://img.shields.io/badge/TikTok-Views-black?logo=tiktok"/>
+  <a href="https://github.com/uxoDeleted?tab=followers">
+    <img alt="github followers"
+         src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=flat"/>
+  </a>
+
+  <a href="https://github.com/uxoDeleted?tab=repositories">
+    <img alt="total stars"
+         src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat"/>
   </a>
 </p>
 
