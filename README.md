@@ -8,6 +8,13 @@ mostly small projects, tools, and random ideas that turn into code because I got
 
 Nothing here is meant to be revolutionary. It’s just me learning, testing, and improving over time :3 
 
+## About me
+- I mainly code C++ & Lua
+- I use Visual Studio & notepad++ sometimes
+
+## if you tryna reach me
+- 💬 Discord: uksov
+
 <p align="left">
   <a href="https://www.tiktok.com/@uksov">
     <img alt="follow on tiktok"
