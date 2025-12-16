@@ -2,11 +2,11 @@
 
 **`I Like making simple stuff (Developer)`**
 
-i build things sometimes.
+- i build things sometimes.
 
-mostly small projects, tools, and random ideas that turn into code because I got curious.
+- mostly small projects, tools, and random ideas that turn into code because I got curious.
 
-Nothing here is meant to be revolutionary. It’s just me learning, testing, and improving over time :3 
+- Nothing here is meant to be revolutionary. It’s just me learning, testing, and improving over time :3 
 
 ## About me
 - I mainly code C++ & Lua
