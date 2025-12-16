@@ -16,9 +16,9 @@ Nothing here is meant to be revolutionary. It’s just me learning, testing, and
 - 💬 Discord: uksov
 
 <p align="left">
-  <a href="https://www.tiktok.com/@uksov">
-    <img alt="follow on tiktok"
-         src="https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok"/>
+<a href="https://www.tiktok.com/@uksov">
+  <img alt="follow on tiktok"
+     src="https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok"/>
   </a>
 
 
